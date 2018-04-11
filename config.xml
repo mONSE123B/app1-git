@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
-wmlns:gap="http://phonegap.com/ns!1.0"
+wmlns:gap="http://phonegap.com/ns/1.0"
 id = "com.phonegap.app1"
 version="1.0.0">
- <name> app-2018 Datos del Dispositivo</name>
+ <name> app1-2018 Datos del Dispositivo</name>
   <description>
   Aplicacion que muestra los Datos del Dispositivo
   </description>
-   <author href="httpa://build.phonegap.com" amail="micorreo@gamil.com">
+   <author href="https://build.phonegap.com" email="cb16.chantes.morales.monserrat@gmail.com">
    Monserrat Chantes Morales
    </author>
     <!-- Personaliza la aplicacion y plataforma -->
